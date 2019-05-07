@@ -1,10 +1,10 @@
 # Magnitude Intensity Correction
 
-The method is presented in the Jupyter Notebook [Intensity Correction.ipynb](https://github.com/korbinian90/Magnitude-Intensity-Correction/blob/master/Intensity%20Correction.ipynb)
+Click on the Jupyter Notebook [Intensity Correction.ipynb](https://github.com/korbinian90/Magnitude-Intensity-Correction/blob/master/Intensity%20Correction.ipynb) for a demonstration.
 
-The source code is found in [MRI.jl](https://github.com/korbinian90/MRI.jl/blob/master/src/intensitycorrection.jl)
+The source code is found in [MRI.jl](https://github.com/korbinian90/MRI.jl) together with installation instructions.
 
-It will be presented as an ePoster at the ISMRM 2019: #231 "A Simple Homogeneity Correction for Neuroimaging at 7T"
+This work will be presented as an ePoster at the ISMRM 2019: #2716 "A Simple Homogeneity Correction for Neuroimaging at 7T"
 
 ## Abstract
 
