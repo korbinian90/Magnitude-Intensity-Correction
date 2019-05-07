@@ -1,6 +1,6 @@
 # Magnitude Intensity Correction
 
-Click on the Jupyter Notebook [Intensity Correction.ipynb](https://github.com/korbinian90/Magnitude-Intensity-Correction/blob/master/Intensity%20Correction.ipynb) for a demonstration.
+Click on the Jupyter Notebook [Intensity Correction.ipynb](https://github.com/korbinian90/Magnitude-Intensity-Correction/blob/master/Intensity%20Correction.ipynb) for a demonstration. (you need to request the desktop version if you are on mobile)
 
 The source code is found in [MRI.jl](https://github.com/korbinian90/MRI.jl) together with installation instructions.
 
